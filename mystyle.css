@@ -1,0 +1,36 @@
+h1 {
+	color: yellow; 
+	background-color: green;
+	text-align: center;
+	font-family: arial;
+	font-weight: bold;
+
+}
+
+body {
+	  
+		color: white;
+		text-align: left;
+		font-style: italic;
+		background-color: black; 
+	}
+
+	ul {
+		list-style: lower-roman;
+		font-weight: bold;
+		text-align: center;
+		color: white ;
+		font-size: 20px; 
+		display: block;
+	}
+
+
+	a {
+		text-align: center;
+		font-size: 50px;
+		color: yellow;
+		display: block;
+
+	}
+
+}
